@@ -10,5 +10,5 @@ npm run dev
 ```
 
 ## demo
-
+![](public/video.mp4)
 <video src="public/demon.mp4" width="500" height="500" controls></video>
