@@ -11,4 +11,4 @@ npm run dev
 
 ## demo
 
-<video src="public/demon.mov" width="500" height="500" controls></video>
+<video src="public/demon.mp4" width="500" height="500" controls></video>
