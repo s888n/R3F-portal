@@ -13,3 +13,7 @@ npm run dev
 
 https://github.com/s888n/R3F-portal/assets/117085422/78c8f144-0ccf-4e08-ab94-2eddeb089144
 
+## resources
+
+[Tutorial](https://www.youtube.com/watch?v=2W_VR92Pqgs)
+[Models](https://quaternius.com/packs/ultimatemonsters.html)
