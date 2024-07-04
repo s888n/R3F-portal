@@ -1,4 +1,4 @@
-# Example of [meshPortalMaterial](https://github.com/pmndrs/drei?tab=readme-ov-file#meshportalmaterial) with React three fiber
+## Example of [meshPortalMaterial](https://github.com/pmndrs/drei?tab=readme-ov-file#meshportalmaterial) with React three fiber
 
-## demo
+### demo
 ![demo](/public/demon.mov)
