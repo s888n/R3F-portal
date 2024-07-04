@@ -10,4 +10,6 @@ npm run dev
 ```
 
 ## demo
-public/video.mp4
+
+https://github.com/s888n/R3F-portal/assets/117085422/78c8f144-0ccf-4e08-ab94-2eddeb089144
+
